@@ -25,7 +25,7 @@ end
 
   def count_sentences
     
-  if self.split = 3
+  if self.split
     return count()
   end
 end
