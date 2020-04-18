@@ -24,7 +24,7 @@ end
 end
 
   def count_sentences
-    
+    binding.pry
   array = self.split(/[!.?]/).reject {|string| string.empty?}
     return array.count 
   end
