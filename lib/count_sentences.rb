@@ -25,8 +25,7 @@ end
 
   def count_sentences
     
-  if self.split
-    return count()
+  new_array = 
   end
 end
 end
