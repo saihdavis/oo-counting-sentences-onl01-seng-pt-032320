@@ -26,7 +26,7 @@ end
   def count_sentences
     
     if self.count = 3
-      return self
+      return 
   
   end
 end
