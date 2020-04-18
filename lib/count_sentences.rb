@@ -29,5 +29,3 @@ end
   self.reject {|string| string.empty?}
   end
 end
-end
-end
