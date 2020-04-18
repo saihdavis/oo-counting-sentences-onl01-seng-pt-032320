@@ -25,7 +25,7 @@ end
 
   def count_sentences
     
-  if self.split("!", ".", "?")
+  if self.split(" ")
     return count 
   end
 end
