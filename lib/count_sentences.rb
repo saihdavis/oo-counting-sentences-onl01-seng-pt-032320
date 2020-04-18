@@ -23,7 +23,8 @@ end
   end
 end
 
-  def count_sentences  binding.pry
+  def count_sentences
+    binding.pry
     if self.end_with?(".", "!", "?")
       split
   
